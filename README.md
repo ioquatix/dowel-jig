@@ -21,7 +21,7 @@ The design is parametric, but exported for 42mm wide timber.
 2. Glue in the bearings using super-glue.
 3. Attach the camp as required for alignment/positioning.
 
-![Fan Duct Simulation](photos/IMG_8335.jpg)
+	![Fan Duct Simulation](photos/IMG_8335.jpg)
 
 ## Contributing
 
